@@ -1,0 +1,34 @@
+{
+  "name": "@werkzeugkiste/stylelint-config",
+  "version": "1.0.0-alpha.0",
+  "publishConfig": {
+    "access": "public",
+    "tag": "alpha"
+  },
+  "description": "",
+  "repository": "git@github.com:werkzeugkiste/stylelint-config.git",
+  "keywords": [
+    "stylelint",
+    "config"
+  ],
+  "author": "Manuel Bieh <info@manuelbieh.de> (https://www.manuelbieh.de)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/werkzeugkiste/stylelint-config/issues"
+  },
+  "homepage": "https://github.com/werkzeugkiste/stylelint-config#readme",
+  "devDependencies": {
+    "@werkzeugkiste/prettier-config": "^1.0.1",
+    "prettier": "^1.18.2",
+    "stylelint": "^10.1.0",
+    "stylelint-config-prettier": "^5.2.0",
+    "stylelint-order": "^3.0.1",
+    "stylelint-prettier": "^1.1.1"
+  },
+  "peerDependencies": {
+    "stylelint": "^10.1.0",
+    "stylelint-config-prettier": "^5.2.0",
+    "stylelint-order": "^3.0.1",
+    "stylelint-prettier": "^1.1.1"
+  }
+}
