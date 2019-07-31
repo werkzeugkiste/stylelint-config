@@ -28,4 +28,4 @@ Then add an `.stylelint.json` file to the root of your project before running th
 }
 ```
 
-For more information see: http://eslint.org/docs/user-guide/configuring
+For more information see: https://stylelint.io/user-guide/configuration#extends
