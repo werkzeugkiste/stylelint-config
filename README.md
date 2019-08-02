@@ -1,6 +1,9 @@
-# @werkzeugkiste/stylelint-config [alpha]
+# @werkzeugkiste/stylelint-config
 
-A shared [Stylelint](https://stylelint.io) config for [@werkzeugkiste](https://www.github.com/werkzeugkiste).
+<p align="center">
+  <img src="//raw.githubusercontent.com/werkzeugkiste/stylelint-config/master/stylelint.svg" height="64" style="margin: 16px;"><br>
+A shared <a href="https://stylelint.io">Stylelint</a> config for <a href="https://www.github.com/werkzeugkiste">@werkzeugkiste</a>
+</p>
 
 ## Installation
 
