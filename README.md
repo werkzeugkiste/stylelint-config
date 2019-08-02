@@ -1,4 +1,4 @@
-# @werkzeugkiste/stylelint-config [alpha] <img src="https://raw.githubusercontent.com/werkzeugkiste/stylelint-config/master/stylelint.svg?sanitize=true" height="40" align="right">
+# @werkzeugkiste/stylelint-config <img src="https://raw.githubusercontent.com/werkzeugkiste/stylelint-config/master/stylelint.svg?sanitize=true" height="40" align="right">
 
 A shared [Stylelint](https://stylelint.io) config for [@werkzeugkiste](https://www.github.com/werkzeugkiste).
 
