@@ -14,5 +14,6 @@ module.exports = {
         'no-duplicate-at-import-rules': true,
         'no-extra-semicolons': true,
         'no-invalid-double-slash-comments': true,
+        'block-closing-brace-newline-after': 'always',
     },
 };

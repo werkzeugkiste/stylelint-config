@@ -20,7 +20,7 @@ Afterwards install all `peerDependencies` into your project:
 npx install-peerdeps --dev @werkzeugkiste/stylelint-config
 ```
 
-Then add an `.stylelint.json` file to the root of your project before running the eslint command, with the following content
+Then add an `.stylelint.json` file to the root of your project with the following content
 
 ```json
 {
